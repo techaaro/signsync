@@ -23,9 +23,3 @@ Communication is fundamental to human interaction, yet traditional methods often
 - **Real-time Communication Protocols:** Ensuring seamless integration of features into video communication.
 - **Accessibility Features:** Support for assistive technologies and specific features for visually impaired users.
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/SignSync.git
