@@ -1,25 +1,16 @@
-# SignSync
+# video_call_app
 
-SignSync is a revolutionary mobile application designed to empower specially-abled individuals by revolutionizing communication. By harnessing the power of technology, SignSync aims to break down barriers and ensure equal access to communication for all.
+A new Flutter project.
 
-## Introduction
+## Getting Started
 
-Communication is fundamental to human interaction, yet traditional methods often present significant barriers for specially-abled individuals. SignSync addresses this challenge by providing innovative solutions tailored to their unique communication needs.
+This project is a starting point for a Flutter application.
 
-## Features
+A few resources to get you started if this is your first Flutter project:
 
-- **Speech Recognition:** Real-time transcription of spoken words into text.
-- **Hand Gesture Recognition:** Interpretation of sign language gestures in real-time.
-- **Real-time Communication:** Seamless integration of features into video communication.
-- **Hearing with Our Eyes:** Deaf users can see spoken words displayed on their screens during video calls.
-- **Speaking Without Words:** Communication through sign language gestures, enhancing accessibility and inclusivity.
-- **Dual Screen Interface:** Simultaneous viewing of video feeds and transcribed text for effective communication.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Tech Stack
-
-- **Flutter:** UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
-- **Speech Recognition APIs:** Utilized for real-time transcription of spoken words into text.
-- **Gesture Recognition Libraries:** Employed for interpreting sign language gestures in real-time.
-- **Real-time Communication Protocols:** Ensuring seamless integration of features into video communication.
-- **Accessibility Features:** Support for assistive technologies and specific features for visually impaired users.
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
