@@ -163,7 +163,10 @@ class HomePage extends StatelessWidget {
     Navigator.push(
       context,
       MaterialPageRoute(builder: (context) {
-        return const DisbaledCallPage();
+        return DisabledCallPage(
+          callId: callIdController.text.toString(),
+          name: nameController.text.toString(),
+        );
       }),
     );
   }
